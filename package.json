@@ -1,0 +1,32 @@
+{
+  "name": "enjoy-math-in-programming",
+  "version": "0.0.1",
+  "description": "Enjoy math in programming Oct,14,2012",
+  "homepage": [
+    "http://goo.gl/dp6Mj"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freddiefujiwara/enjoy-math-in-programming.git"
+  },
+  "keywords": [
+    "testing",
+    "tdd"
+  ],
+  "author": {
+    "name": "Fumikazu Fujiwara",
+    "email": "github@ze.gs"
+  },
+  "contributors": [
+    {
+    }
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "dependencies": {
+    "jasmine-node":"*",
+    "jsdom":"*",
+    "coffee-script":"*"
+  }
+}
